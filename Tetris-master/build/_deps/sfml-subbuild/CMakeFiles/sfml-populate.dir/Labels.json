@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/38c159fbe6e1ec0b0428bade0830323f/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/638580d529ac5ca8ab0265bbc6eb479f/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/kongr/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

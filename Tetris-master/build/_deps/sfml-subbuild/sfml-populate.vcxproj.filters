@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\072de27c275dd3fb57f9e9083cbf209b\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\638580d529ac5ca8ab0265bbc6eb479f\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\38c159fbe6e1ec0b0428bade0830323f\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AA00A9D5-4700-3E2A-B928-E39E05CDFF85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

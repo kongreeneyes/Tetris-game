@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\GameEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\AssetManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\GameSound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\Tetramino.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\GameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\AssetManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\GameSound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\Tetramino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kongr\OneDrive\Рабочий стол\TetrisWORKING\Tetris-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B4343612-8718-3DDD-97F2-1860F25767DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3DD434E4-4D46-3514-B022-6EB4172ED4E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

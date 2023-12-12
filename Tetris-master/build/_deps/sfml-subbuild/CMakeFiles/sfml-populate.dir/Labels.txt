@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/38c159fbe6e1ec0b0428bade0830323f/sfml-populate.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/638580d529ac5ca8ab0265bbc6eb479f/sfml-populate-complete.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-build.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-configure.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-download.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-install.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-mkdir.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-patch.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-test.rule
+C:/Users/kongr/OneDrive/Рабочий стол/TetrisWORKING/Tetris-master/build/_deps/sfml-subbuild/CMakeFiles/072de27c275dd3fb57f9e9083cbf209b/sfml-populate-update.rule
